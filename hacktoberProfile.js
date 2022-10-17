@@ -145,5 +145,10 @@ var profiles = [
     github : "k0ustav"
   }
 
+    {
+        name: 'Koduru Naveen ',
+        place: 'Hyderabad,Telangana,India',
+        github: 'Koduru Naveen',
+    },
     //end of json
 ];
